@@ -1,6 +1,6 @@
 # podcasts I am currently listening to
 
-## [Rich Roll](http://www.richroll.com/podcast/)
+## [Rich Roll](http://www.richroll.com/)
 * His podcast is designed to unlock and unleash our best selves
 * The first episode I listened to: [#262 with Kerri Walsh](RichRoll262.md) 
 
