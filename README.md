@@ -4,6 +4,6 @@
 * His podcast is designed to unlock and unleash our best selves
 * The first episode I listened to: [#262 with Kerri Walsh](RichRoll262.md) 
 
-## [Alec Baldwin](http://www.wnyc.org/shows/heresthething)
+## [Alec Baldwin - Here's the Thing](http://www.wnyc.org/shows/heresthething)
 * His podcast is designed to ...
 * [Great episode with Secretary of the Army Eric Fanning:](AlecBaldwin20161206.md) 
